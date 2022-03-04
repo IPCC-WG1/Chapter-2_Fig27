@@ -25,5 +25,9 @@
 #
 # ----------------------------------------------------------------------------------------------------
 # How to cite:
-# When citing this code, please include both the code citation and the following citation for the related report component:
+# When citing this code, please include both the code citation and the following citation for the related report component: 
+
+[![DOI](https://zenodo.org/badge/438244314.svg)](https://zenodo.org/badge/latestdoi/438244314)
+
+
 ########################################################################
